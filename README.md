@@ -13,7 +13,6 @@ git clone <url_repositorio_remoto>
 git add <arquivo1> <arquivo2> ... <arquivoN>
 ```
 git add . 
-```
 
 3. Fazendo o commit
 
